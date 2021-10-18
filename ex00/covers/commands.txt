@@ -1,0 +1,150 @@
+  156  cd..
+  157  cd ..
+  158  ld
+  159  ls
+  160  history
+  161  ls
+  162  rm filename
+  163  rm days00
+  164  ls
+  165  rmdir  days00
+  166  ls
+  167  cd documents
+  168  cd GitHub/Days00
+  169  mkdir ex00
+  170  cd ex00
+  171  cd covers
+  172  ls
+  173  mkdir Constructeurs
+  174  cd 
+  175  ls
+  176  cd Documents/
+  177  ls
+  178  cd GitHub
+  179* 
+  180  cd Days00
+  181  cd covers
+  182  cd ex00
+  183  cd covers
+  184  ls
+  185  mkdir CConstructeurs
+  186  ls
+  187  rm CConstructeurs
+  188  rmdir CConstructeurs
+  189  cd Constructeurs
+  190  mkdir Consoles Consoles portables
+  191  ls
+  192  cd portables
+  193  cd ..
+  194   mv portables Consoles_portables
+  195  ls
+  196   cd Consoles
+  197  mkdir PS4 PS5
+  198  ls
+  199  cd ../..
+  200  ls
+  201  grep playstation
+  202  ls
+  203  mv playstation_4.assassinscreedodyssey.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.watchdogs2.jpg ps4_fifa14.jpg PS4
+  204* 
+  205  LS
+  206  cd Constructeurs
+  207  mkdir sony
+  208  mv sony Sony
+  209  mv Consoles Consoles_portables Sony
+  210  cd Sony
+  211  ls
+  212  cd ../../..
+  213  ls
+  214  cd covers
+  215  mv playstation_5.assassinscreedvalhalla.jpg playstation_5.farcry6.jpg playstation_5.residentevilvillage_.jpg Constructeurs/Sony/Consoles/PS5
+  216  cd Constructeurs/
+  217  ls
+  218  mkdir Nintendo Microsoft Sega
+  219  cd nintendo
+  220   cd Consoles Consoles_portables
+  221  cd Nintendo
+  222  cd..
+  223  cd ..
+  224  ls
+  225  cd Nintendo/
+  226  mkdir Consoles Consoles portables
+  227  ls
+  228  mv portables Consoles_portbales
+  229  ls
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd Microsoft/
+  234  mkdir Consoles Consoles_portables
+  235  ls
+  236  ls
+  237  cd
+  238  cd Documents/
+  239  ls
+  240  cd GitHub/Days00/ex00/c
+  241  cd GitHub/Days00/ex00/covers/
+  242  ls
+  243  cd Constructeurs/Sega/
+  244  ls
+  245  mkdir Consoles Consoles_portables
+  246  cd ..
+  247  cd..
+  248  cd ..
+  249  ls
+  250   mv dc_jetsetradio_eu_front.jpg  dc_jetgrindradio_10.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg Constructeurs/Sega/Consoles
+  251   cd Constructeurs/Sega
+  252  cd Consoles
+  253  mkdir Dreamcast
+  254  ls
+  255   mv dc_jetsetradio_eu_front.jpg  dc_jetgrindradio_10.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg Constructeurs/Sega/Consoles/Dreamcast
+  256   mv dc_jetsetradio_eu_front.jpg  dc_jetgrindradio_10.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg Constructeurs/Sega/Consoles/Dreamcast
+  257  ls
+  258   mv dc_jetsetradio_eu_front.jpg  dc_jetgrindradio_10.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg /Dreamcast
+  259   mv dc_jetsetradio_eu_front.jpg  dc_jetgrindradio_10.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg Dreamcast
+  260  ls
+  261  cd Dreamcast/
+  262  ls
+  263  ls
+  264  cd ../..
+  265  ..
+  266  cd ..
+  267  cd ..
+  268  cd Constructeurs/Nintendo/Consoles
+  269  mkdir Gamecube
+  270  cd ..
+  271   cd Consoles_portbales/
+  272  mkdir Game_boy
+  273  cd ../..
+  274  cd Microsoft/Consoles
+  275  mkdir Xbox Xxbox360
+  276  ls
+  277   mv Xxbox360 Xbox360
+  278  ls
+  279  cd
+  280  cd GitHub/Days00/ex00/covers/
+  281  cd Documents/GitHub/Days00/ex00/covers/
+  282  ls
+  283   mv gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemon_au.jpg gbc_pokemongold.jpg gameboy.pokmonred.jpg Constructeurs/Nintendo/Consoles/Gamecube/
+  284   mv gb_pokemonyellow_au.jpg  Constructeurs/Nintendo/Consoles/Gamecube/
+  285  ls
+  286  mv gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg Constructeurs/Nintendo/Consoles_portbales/
+  287  ls
+  288  mv x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg  Constructeurs/Microsoft/Consoles/Xbox360
+  289  mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg  Constructeurs/Microsoft/Consoles/Xbox
+  290  ls
+  291  mv xbox_360.fableiii.jpg  Constructeurs/Microsoft/Consoles/Xbox360
+  292  cd Constructeurs/Nintendo/
+  293  ls
+  294  mv Consoles-portbales Consoles_portables
+  295  ls
+  296  mv Consoles_portbales Consoles_portables
+  297  ls
+  298  cd ..
+  299  cd ..
+  300  ls
+  301  history
+  302  history 153 >commands.txt
+  303  ls
+  304  cat commands.txt
+  305  history 150 >commands.txt
