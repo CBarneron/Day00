@@ -1,1 +1,1 @@
-awk -F ',' '==Officer' tcpd_department.csv
+awk -F ',' '$1==Officer' tcpd_department.csv
